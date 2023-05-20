@@ -2,29 +2,29 @@
     "recruits":[{
         "companyName": "티맵 모빌리티",
         "link": "https://thecareers.sktelecom.com/Recruit/Detail/2324",
-        "skills": [{
+        "skill": {
             "launguage": ["java", "kotlin"],
             "infra": ["MySQL", "PostgreSQL", "NoSQL"],
             "framework": ["Spring"]
-        }],
+        },
         "location": "서울특별시 중구 삼일대로 343, 12층 (저동1가, 대신파이낸스센터)"
     },{
         "companyName": "당근마켓",
         "link": "https://about.daangn.com/jobs/4672452003/",
-        "skills": [{
+        "skill": {
             "launguage": ["java", "kotlin"],
             "infra": ["kubernetes", "AWS", "GCP"],
             "framework": ["Spring", "JPA"]
-        }],
+        },
         "location": "서울특별시 서초구 서초대로30길 28, 609호"
     },{
         "companyName": "NHN 클라우드",
         "link": "https://www.nhncloud-seasonrecruit.com/platform-service",
-        "skills": [{
+        "skill": {
             "launguage": ["java"],
             "infra": ["MySQL", "docker", "kubernetes"],
             "framework": ["Spring", "RxJava"]
-        }],
+        },
         "location": "경기도 성남시 분당구 대왕판교로645번길 16 플레이뮤지엄"
     }]
 }
