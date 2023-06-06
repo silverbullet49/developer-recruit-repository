@@ -26,5 +26,14 @@
             "framework": ["Spring", "RxJava"]
         },
         "location": "경기도 성남시 분당구 대왕판교로645번길 16 플레이뮤지엄"
+    },{
+        "companyName": "여기어때컴퍼니",
+        "link": "https://gccompany.career.greetinghr.com/o/76415",
+        "skill": {
+            "language": ["java"],
+            "infra": ["MySQL", "AWS"],
+            "framework": ["Spring"]
+        },
+        "location": "대한민국 서울특별시 강남구 봉은사로 479, 여기어때컴퍼니"
     }]
 }
